@@ -4,6 +4,8 @@
 
 ## 🚀 About Me
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+  
 👨‍💻  A passionate Full-Stack Developer with around 2.8 years of professional software experience in the IT industry. I specialize in developing and implementing web applications using Microsoft DOTNET Technologies, including .NET Framework and .NET Core with C#.
 
 🌟  Throughout my career, I have been involved in all phases of the Software Development Life Cycle (SDLC), from Requirements Analysis to Maintenance and Enhancement. I have a strong understanding of N-Tier Architectures, Microservices, and RESTful Web APIs. I'm known for optimizing code, improving system performance, and ensuring customer satisfaction.

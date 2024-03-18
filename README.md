@@ -29,25 +29,22 @@
 <a href="https://www.github.com/meetdobariya28" target="blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt= "https://www.github.com/meetdobariya28" height="32" width="40"  /></a> 
 </p>
 
-## 📈 Stats
 
-<a href="http://www.github.com/meetdobariya28"><img src="https://github-readme-stats.vercel.app/api?username=meetdobariya28&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="meetdobariya28" /></a>
 
-<a href="https://github.com/meetdobariya28" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetdobariya28&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
+
+
+
+
 
 
 
 <!--
-**meetdobariya28/meetdobariya28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📈 Stats
+<a href="http://www.github.com/meetdobariya28"><img src="https://github-readme-stats.vercel.app/api?username=meetdobariya28&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="meetdobariya28" /></a>
 
-Here are some ideas to get you started:
+<a href="https://github.com/meetdobariya28" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetdobariya28&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->

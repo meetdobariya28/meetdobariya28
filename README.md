@@ -24,7 +24,6 @@
 ## 🔗 Links
 
 <p align="left">
-<a href="https://www.linkedin.com/in/meet-dobariya2812/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/meet-dobariya2812/" height="32" width="40" /></a>
 <a href="http://www.instagram.com/meetdobariya_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/meetdobariya_28" height="32" width="40" /></a>
 <a href="https://www.github.com/meetdobariya28" target="blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt= "https://www.github.com/meetdobariya28" height="32" width="40"  /></a> 
 </p>

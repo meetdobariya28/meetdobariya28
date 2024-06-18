@@ -15,7 +15,7 @@
 🎓  I hold a Bachelor's degree in Computer Science from Algoma University, where I honed my skills and gained valuable knowledge in the field.
 
 🚀  I'm passionate about creating efficient and user-friendly software solutions that make a positive impact. Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out to me at 
-[Email](mailto:dobariymeet@gmail.com).
+[My_Email](mailto:dobariymeet@gmail.com).
 
 ## 🛠️ Languages and Tools
 
